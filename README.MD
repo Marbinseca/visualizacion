@@ -4,7 +4,9 @@ Una aplicación web simple construida con Streamlit que permite a los usuarios c
 
 ## 🎮 Demo
 
-![https://visualizacion-wosh6quvzdes4ilcip88ka.streamlit.app/](demo.gif)
+🌐 [Ver Demo en Vivo](https://visualizacion-wosh6quvzdes4ilcip88ka.streamlit.app/)
+
+![Demo de la Aplicación](demo.gif)
 
 ---
 
